@@ -1,0 +1,14 @@
+{
+  "name": "@d3/world-airports",
+  "main": "2108a08ab4570711@48.js",
+  "version": "48.0.0",
+  "homepage": "https://observablehq.com/@d3/world-airports",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
